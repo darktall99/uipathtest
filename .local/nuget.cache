@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7RA0FbSQy+D7cl4xpPKc/xd8qbOrx3uz+n4Eb+gE0xBauyfix/ftozP7d+qWsdeQWRUt5DztLK6Lo/oELOlBg==",
+  "dgSpecHash": "99W8jVoTGzhGb6DmmT+aHMRRNRQ9VTlwjQBDuMAVUGvN+BCX1QS8sLTKSga6vb/zZHg5j+vst+61tWBzdt2qZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mark.kim\\Downloads\\rpa_book-main\\rpa_book-main\\Chapter5\\.local\\",
+  "projectFilePath": "C:\\Users\\mark.kim\\Documents\\UiPath\\test\\test2\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\mark.kim\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\bitmiracle.docotic.pdf.7.5.11645.nupkg.sha512",
     "C:\\Users\\mark.kim\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
